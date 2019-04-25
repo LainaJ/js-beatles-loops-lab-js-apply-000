@@ -18,4 +18,3 @@ while (i < 4) { //write while loop{
 return factsArray;
 }
 
-}
