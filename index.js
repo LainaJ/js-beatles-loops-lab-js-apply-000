@@ -11,9 +11,10 @@ function theBeatlesPlay (musicians, instruments) {
 
 //2)
 function johnLennonFacts() {
+  var i = 0
   var factsArray = []
 while (i < 4) { //write while loop{
-  factsArray.push("!!!")//where I push exclamations
+  array [i] += "!!!"; i++ //where I modify the array by adding on exclamations
 }
 return factsArray;
 }
