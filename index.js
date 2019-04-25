@@ -13,8 +13,7 @@ function theBeatlesPlay (musicians, instruments) {
 function johnLennonFacts() {
   var factsArray = []
 while (i < 4) { //write while loop{
-  factsArray.push(`${!!!}`)//where I push exclamations
+  factsArray.push("!!!")//where I push exclamations
 }
 return factsArray;
 }
-
