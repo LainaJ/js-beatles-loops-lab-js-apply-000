@@ -19,7 +19,7 @@ function johnLennonFacts() {
   "He hated the sound of his own voice"
 ];
 while (i < 4) { //write while loop{
-  array [i] += "!!!"; i++ //where I modify the array by adding on exclamations
+  factsArray [i] += "!!!"; i++ //where I modify the array by adding on exclamations
 }
 return factsArray;
 }
