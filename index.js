@@ -19,7 +19,7 @@ function johnLennonFacts(array) {
     "He hated the sound of his own voice"
   ]
 while (i < factsArray.length) {
-  factsArray [i] += "!!!"; i++;
+  factsArray [i] + "!!!";
 }
 return factsArray;
 }
