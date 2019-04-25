@@ -16,8 +16,8 @@ function johnLennonFacts() {
       +  "He was never a vegetarian"
       +  "He was a choir boy and boy scout"
       +  "He hated the sound of his own voice"];
-while (i < 4) { //write while loop{
-  factsArray [i] += "!!!"; i++ //where I modify the array by adding on exclamations
+while (i < 4) {
+  factsArray [i] += "!!!"; i++;
 }
 return factsArray;
 }
