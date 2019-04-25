@@ -9,7 +9,7 @@ function theBeatlesPlay (musicians, instruments) {
   return emptyArray;
 }
 
-//2) 
+//2)
 function johnLennonFacts() {
   var factsArray = []
 while (i < 4) { //write while loop{
@@ -17,7 +17,5 @@ while (i < 4) { //write while loop{
 }
 return factsArray;
 }
-  
+
 }
-
-
